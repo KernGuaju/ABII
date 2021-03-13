@@ -1,0 +1,22 @@
+html{
+    height: 100%;
+}
+body{
+    background: linear-gradient(blue, #ccc);
+    font-family: cursive, arial;
+}
+p{
+    text-align: center;
+    color: #fff;
+    font-size: 42px;
+}
+ul{
+    margin-top: 200px;
+    margin-left: 100px;
+}
+li{
+    margin-top: 20px;
+    text-align: left;
+    color: #fff;
+    font-size: 20px;
+}
